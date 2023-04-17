@@ -23,7 +23,8 @@ class Main {
                             "2- Even/odd number checker\n" +
                             "3- Kilometers to Miles Converter\n" +
                             "4- Factorial calculator\n" +
-                            "5- Number guessing game"
+                            "5- Number guessing game (mini-project)\n" +
+                            "6- Hospital Demo Example"
                 )
 
                 // Get the user choice
@@ -38,6 +39,7 @@ class Main {
                     3 -> Lecture3Ex3().init()
                     4 -> Lecture3Ex4().init()
                     5 -> Lecture3Ex5().init()
+                    6 -> Lectrue4P1Ex1().init()
 
                 }
 
